@@ -1,0 +1,11 @@
+2023-01-03T12:34:13.059Z [32minfo[39m: 	New Member Added!:[{"firstName":"neha","lastName":"kumari","phoneNumber":"9654782345","email":"nehatey1@gmail.com","role":"member","password":"$2b$10$ixeKeySUxjVfqnyvMGb/LudIS34YmRLQ7aYmGc2s5zcDsWJwogfyq","_id":"63b420c5b0c983e0cd89307b","__v":0}]
+2023-01-03T12:37:14.390Z [32minfo[39m: 	See all members!: [{"_id":"63b404618c97250212156f2d","firstName":"pooja","lastName":"kumari","phoneNumber":"9654782345","email":"pooja@gmail.com","role":"admin","password":"$2b$10$jKzu3FLfI03bpzqctVvHZe.dFYEIYRPkAs9lTYlbP8khMtW./Cc.m","__v":0},{"_id":"63b41223849518d6ca140ada","firstName":"pooja","lastName":"kumari","phoneNumber":"9654782345","email":"pooja1@gmail.com","role":"admin","password":"$2b$10$JNC7OWrymm0f9sMVJSSol.VJpobSW9RJShDB7vmf.a3XmzXSRf77y","__v":0},{"_id":"63b41fa4063121da47e77874","firstName":"neha","lastName":"kumari","phoneNumber":"9654782345","email":"nehatefwy1@gmail.com","role":"member","password":"$2b$10$27/dnUWsGSXa/6hS42n6u.wQyaFWczmpef8/e7mcQlzIq0sqDffI.","__v":0},{"_id":"63b420c5b0c983e0cd89307b","firstName":"neha","lastName":"kumari","phoneNumber":"9654782345","email":"nehatey1@gmail.com","role":"member","password":"$2b$10$ixeKeySUxjVfqnyvMGb/LudIS34YmRLQ7aYmGc2s5zcDsWJwogfyq","__v":0}]
+2023-01-03T12:41:19.671Z [31merror[39m: 	Data Not Found!: null
+2023-01-03T12:41:45.824Z [31merror[39m: 	Data Not Found!: null
+2023-01-03T12:42:59.086Z [31merror[39m: 	Data Not Found!: null
+2023-01-03T12:43:32.124Z [31merror[39m: 	Data Not Found!: null
+2023-01-03T12:44:22.396Z [31merror[39m: 	Data Not Found!: null
+2023-01-03T12:44:41.945Z [32minfo[39m: 	Member Deleted Successfully!: {"_id":"63b420c5b0c983e0cd89307b","firstName":"neha","lastName":"kumari","phoneNumber":"9654782345","email":"nehatey1@gmail.com","role":"member","password":"$2b$10$ixeKeySUxjVfqnyvMGb/LudIS34YmRLQ7aYmGc2s5zcDsWJwogfyq","__v":0}
+2023-01-03T12:49:00.210Z [31merror[39m: 	Email already exits!: [object Object]
+2023-01-03T12:55:10.283Z [32minfo[39m: 	Login Successful! :{"_id":"63b41223849518d6ca140ada","firstName":"pooja","lastName":"kumari","phoneNumber":"9654782345","email":"pooja1@gmail.com","role":"admin","password":"$2b$10$JNC7OWrymm0f9sMVJSSol.VJpobSW9RJShDB7vmf.a3XmzXSRf77y","__v":0}
+2023-01-03T12:55:24.546Z [31merror[39m: 	Invalid Password or Email!

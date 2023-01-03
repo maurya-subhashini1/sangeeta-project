@@ -1,0 +1,18 @@
+2023-01-03T12:15:24.804Z [32minfo[39m: 	Winston Logging
+2023-01-03T12:17:46.743Z [32minfo[39m: 	Winston Logging
+2023-01-03T12:18:27.108Z [32minfo[39m: 	Winston Logging {"appname":"sangeeta"}
+2023-01-03T12:19:21.098Z [32minfo[39m: 	Winston Logging {"appname":"sangeeta"}
+2023-01-03T12:21:40.109Z [32minfo[39m: 	/api/v1/log?appname=sangeeta{"appname":"sangeeta"}
+2023-01-03T12:28:10.728Z [31merror[39m: 	Email already exits!: [object Object]
+2023-01-03T12:28:22.867Z [31merror[39m: 	Email already exits!: [object Object]
+2023-01-03T12:28:35.664Z [31merror[39m: 	Email already exits!: [object Object]
+2023-01-03T12:29:24.552Z [32minfo[39m: 	New Member Added!:{
+  firstName: 'neha',
+  lastName: 'kumari',
+  phoneNumber: '9654782345',
+  email: 'nehatefwy1@gmail.com',
+  role: 'member',
+  password: '$2b$10$27/dnUWsGSXa/6hS42n6u.wQyaFWczmpef8/e7mcQlzIq0sqDffI.',
+  _id: new ObjectId("63b41fa4063121da47e77874"),
+  __v: 0
+}
